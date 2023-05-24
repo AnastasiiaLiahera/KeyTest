@@ -28,6 +28,7 @@ namespace KeyTest
                         if(max0 > max00)
                         {
                             max00 = max0;
+                            max0 = 0;
                         }
                     }
                 }
@@ -45,6 +46,7 @@ namespace KeyTest
                         if (max1 > max11)
                         {
                             max11 = max1;
+                            max1 = 0;
                         }
                     }
                 }

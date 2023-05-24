@@ -39,26 +39,32 @@ namespace KeyTest
                         if (char0 == 1)
                         {
                             series01++;
+                            char0 = 0;
                         }
                         else if (char0 == 2)
                         {
                             series02++;
+                            char0 = 0;
                         }
                         else if (char0 == 3)
                         {
                             series03++;
+                            char0 = 0;
                         }
                         else if (char0 == 4)
                         {
                             series04++;
+                            char0 = 0;
                         }
                         else if (char0 == 5)
                         {
                             series05++;
+                            char0 = 0;
                         }
                         else if (char0 == 6)
                         {
                             series06++;
+                            char0 = 0;
                         }
                     }
                 }
@@ -76,26 +82,32 @@ namespace KeyTest
                         if (char0 == 1)
                         {
                             series11++;
+                            char0 = 0;
                         }
                         else if (char0 == 2)
                         {
                             series12++;
+                            char0 = 0;
                         }
                         else if (char0 == 3)
                         {
                             series13++;
+                            char0 = 0;
                         }
                         else if (char0 == 4)
                         {
                             series14++;
+                            char0 = 0;
                         }
                         else if (char0 == 5)
                         {
                             series15++;
+                            char0 = 0;
                         }
                         else if (char0 == 6)
                         {
                             series16++;
+                            char0 = 0;
                         }
                     }
                 }
